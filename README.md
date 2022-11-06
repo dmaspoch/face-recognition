@@ -5,6 +5,11 @@ This prototype uses the following libraries:
 - OpenCV: Used for face detection and recognition (https://github.com/opencv/opencv)
 - eSpeakNG: Used for Text-To-Speech (https://github.com/espeak-ng/espeak-ng)
 
+## Connecting to GitHub using SSH
+GitHub access from the RaspberryPi needs to be done using SSH. Please follow the steps here to set it up:
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+
 ## Required libraries
 Please install the required libraries using the following commands:
 
